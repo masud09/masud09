@@ -4,7 +4,7 @@
 
 ### Hi there 👋, This is Masud here 
 #### I am a Web Developer
-![I am a web Developer]
+
 
 I am a Frontend Engineer and Project Architect with over two years of experience, specializing in data structures, algorithms, web scraping, and data mining. I hold a degree in Computer Science Engineering and have expertise in major frontend and backend JavaScript frameworks.
 
